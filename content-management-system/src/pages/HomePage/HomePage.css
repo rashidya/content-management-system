@@ -1,0 +1,35 @@
+.containerDiaryHome{
+    height: max-content;
+    min-Height:100vh;
+    display: flex;
+    justify-Content: center; 
+    padding-bottom: 2vh;
+   
+}
+
+.navBar{
+    display: flex;
+    flex-Wrap: wrap;
+    justify-Content: space-between;
+    margin-Top: 4vh;
+}
+
+.text{
+    background-Color: #ededed;
+    opacity: 60%;
+    border-Radius: 30px !important;
+    transition:width 2s; 
+    margin-top: 1vh;
+}
+
+.diaryHomeBtn{
+    width: 15%;
+    border-Radius: 30px !important;
+    border:2px #43ade2 solid !important;
+    background-color: #1976d2 !important;    
+}
+
+
+
+
+
