@@ -1,0 +1,40 @@
+.card {
+    background-color:white;
+    border-radius: 10px;
+    width: 25vw;
+    border: 10px solid white;
+    flex-direction: column;
+
+}
+
+.containerSignIn{
+    background-color:#c8dce3;
+    height: 100vh;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.txt {
+    border-Radius: 30px !important;
+}
+
+.d1 {
+    padding-top: 2vh;
+    width: 80%;
+}
+
+.btnSignIn{
+    border-Radius: 30px !important;
+    margin: 3vh !important;
+}

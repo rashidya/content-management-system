@@ -1,0 +1,32 @@
+.containerAdmin{
+    height: max-content;
+    min-Height:100vh;
+    display: flex;
+    justify-Content: center; 
+    padding-bottom: 2vh;
+   
+}
+
+.navBarAdmin{
+    display: flex;
+    flex-Wrap: wrap;
+    justify-Content: space-between;
+    margin-Top: 4vh;
+}
+.addFormSection1{
+    display: flex;
+    flex-Wrap: wrap;
+    justify-Content: space-between;
+    margin-Top: 5vh;
+}
+
+.text{
+    border-Radius: 10px !important;
+    margin-top: 1vh;
+}
+
+
+
+
+
+
